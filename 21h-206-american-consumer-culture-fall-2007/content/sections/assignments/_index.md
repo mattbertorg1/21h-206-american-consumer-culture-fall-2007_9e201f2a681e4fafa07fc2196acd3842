@@ -1,0 +1,56 @@
+---
+course_id: 21h-206-american-consumer-culture-fall-2007
+layout: course_section
+menu:
+  leftnav:
+    identifier: ffe35fc7094f874e0c561e5f9ebe2ee2
+    name: Assignments
+    weight: 40
+title: Assignments
+type: course
+uid: ffe35fc7094f874e0c561e5f9ebe2ee2
+
+---
+
+Reading Questions
+-----------------
+
+Students were asked to keep the following questions in mind as they read and reflected on the course texts.
+
+Sister Carrie ([PDF]({{< baseurl >}}/sections/assignments/carrie))
+
+Babbitt ([PDF]({{< baseurl >}}/sections/assignments/babbitt))
+
+The Status Seekers ([PDF]({{< baseurl >}}/sections/assignments/status))
+
+Primary Source Journal ([PDF]({{< baseurl >}}/sections/assignments/psj))
+------------------------------------------------------------------------
+
+All semester, students searched for primary sources related to a particular person or event. They collected these sources, analyzed them, and presented them in class.
+
+Final Paper
+-----------
+
+### Paper Proposal ([PDF]({{< baseurl >}}/sections/assignments/topics))
+
+All research papers build on three basic elements: a good question, a very focused topic, and a body of primary source material. The first step, then, will be to come up with a question, topic, and sources. Students were given a list of potential topics to guide them.
+
+### Detailed Bibliography ([PDF]({{< baseurl >}}/sections/assignments/bibliography))
+
+Over the next few weeks, you then need to do all your background reading and much of your research. This bibliography is more than just a list of books and articles you are building on. The purposes of this background reading and the first stage of your research are to refine your question and zero in on your topic. You need to figure out what historical problem you are trying to solve and how your sources will allow you to do that. Both primary and secondary sources are important, here.
+
+### One Best Source ([PDF]({{< baseurl >}}/sections/assignments/best))
+
+The next two weeks are devoted to research. By the beginning of November you should have almost all of your research complete and start to think about writing your paper. By now you should know how you want to use your sources to prove your case. Pick out a single best source and explain what its significance is.
+
+### Introduction and Outline
+
+Spend the next two weeks figuring out how to write your paper. Write your introductory paragraph that sets up the problem you are solving. What is changing and why? Then outline your paper. Typically for a 15-page paper you might think in terms of 3 shorter papers, each helping to prove your argument.
+
+### Rough Draft
+
+Spend the next weeks writing the rough draft. Then you will have time for revision. Seek feedback from several sources.
+
+### Final Paper
+
+Put the finishing touches on your draft, incorporating any criticisms of the structure and arguments, as well as typographical corrections.
